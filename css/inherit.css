@@ -1,0 +1,74 @@
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    line-height: 1.6;
+    color: #333;
+    /background-color: #f3f4f6 !important;
+    background-image: linear-gradient(#f8fdfd, #f3f1fb);
+    padding: 2rem !important;
+    margin: 2rem; !important
+}
+
+.post-card {
+    background-color: white !important;
+    padding: 25px;
+    border: 1px solid #ccc !important;
+    /* border-radius: 4px; */
+    /* box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); */
+    margin: 20px !important;
+    box-shadow: 0 0 3px rgba(0,0,0,.03), 0 3px 46px rgba(0,0,0,.07) !important;
+    border-radius: 0.5rem !important;
+}
+
+
+.create-post {
+ 
+    margin: 25px;
+    background: #000000;
+    color: aliceblue;
+    border-radius: 0.5rem;
+    padding: 9px 15px 9px 15px;
+    text-decoration: none;
+    font-size: 14px;
+    
+    /font-size: 20px !important;
+    /position: fixed !important;
+    /bottom: 30px !important;
+    /left: 30rem !important;
+    /right: 30rem !important;
+    /display: flex !important;
+    /align-content: center;
+    /justify-content: center;
+    /align-items: center;
+    /z-index: 99 !important;
+}
+
+
+
+
+.delete-post {
+    
+        background: #ff0000;
+    border-radius: 1rem;
+    padding: 8px 25px 8px 25px;
+    text-decoration: none;
+    font-size: 15px;
+    color: aliceblue;
+}
+
+.edit-post {
+        background: #000000;
+    border-radius: 1rem;
+ padding: 8px 25px 8px 25px;
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 15px;
+}
+
+.blog-card {
+    /* border: 1px solid #ccc; */
+    border-radius: 8px;
+    padding: 37px;
+    margin-bottom: 20px;
+    background-color: #ffffff;
+    box-shadow: rgba(9, 30, 66, 0.25) 0px 4px 8px -2px, rgba(9, 30, 66, 0.08) 0px 0px 0px 1px;
+}
