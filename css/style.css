@@ -38,10 +38,10 @@ body {
     margin-bottom: 10px;
   }
   
-  .blog-card p.published-at {
+.blog-card p.published-at {
     font-size: 14px;
-    color: #888;
-  }
+    color: #888888c7;
+}
   
   hr {
     border: none;
